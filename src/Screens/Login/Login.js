@@ -6,10 +6,8 @@
  */
 
 import React, {Component} from 'react';
-import {StackActions, NavigationActions } from 'react-navigation';
 import LoginForm from '../../Components/Forms/LoginForm.js';
-import { Container, Content, Button, Text } from 'native-base';
-import {NETWORK_CONSTANTS, LOGGED_IN_USER_DETAILS, COLORS} from '../../Utilities/AppConstants'
+import { Container, Content } from 'native-base';
 import AppUtilities from '../../Utilities/AppUtilities'
 import NetworkManager from '../../Network/NetworkManager.js'
 import DBManager from '../../Database/DBManager.js';
