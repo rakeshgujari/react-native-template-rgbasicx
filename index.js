@@ -12,7 +12,7 @@ import React from 'react'
 import Navigator from './src/Navigation/Navigator.js'
 import configureStore from './src/Redux/Store.js';
 import { MenuProvider, MenuContext } from 'react-native-popup-menu';
-import NavigationService from './src/Libraries/NavigationService.js';
+import NavigationService from './src/Navigation/NavigationService.js';
 
 const store = configureStore()
 
