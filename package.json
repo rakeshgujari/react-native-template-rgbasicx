@@ -1,0 +1,11 @@
+{
+  "name": "react-native-template-rgbasicx",
+  "version": "1.0.0",
+  "description": "A starter project in react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rakesh Gujari",
+  "license": "ISC"
+}
